@@ -5,4 +5,5 @@
 
 ## Por que usar GitHub Actions?
 - Automatização
-- Reprodutibilidade
+
+- Reprodutibilidade teste
